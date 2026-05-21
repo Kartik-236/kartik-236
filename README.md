@@ -1,12 +1,12 @@
 # Kartik Kaushik
 
-Computer Science student interested in backend development, cybersecurity, Linux systems, and low-level software concepts.
+Computer Science student interested in backend development, cybersecurity, Linux systems, and software internals.
 
 I enjoy building projects that help me understand how software and systems behave internally — from secure data wiping and forensic workflows to backend services and file processing tools.
 
 ---
 
-## Currently Exploring
+## Currently Working On
 
 - Backend development with Python
 - Linux-based tooling and applications
@@ -20,7 +20,7 @@ I enjoy building projects that help me understand how software and systems behav
 ## Projects
 
 ### Project DUME
-Linux-based host analysis and risk assessment platform.
+Linux-based platform for host analysis, event correlation, and risk assessment.
 
 Built using:
 `Python • FastAPI • PostgreSQL • Docker`
@@ -42,7 +42,7 @@ Built using:
 ---
 
 ### Cloud Forensics Investigation Platform
-Project for analyzing cloud activity logs and reconstructing suspicious activity timelines across simulated cloud environments.
+Cloud log analysis platform focused on suspicious activity detection and attack timeline reconstruction.
 
 Built using:
 `Java • Spring Boot • MongoDB`
@@ -81,7 +81,7 @@ Built using:
 
 ## Interests
 
-Cybersecurity • Backend Engineering • Linux • Systems Programming • Networking • APIs • Digital Forensics • Performance-Oriented Software
+Cybersecurity • Backend Engineering • Linux • Systems Programming • Networking • APIs • Digital Forensics • Software Internals
 
 ---
 
@@ -91,7 +91,7 @@ Cybersecurity • Backend Engineering • Linux • Systems Programming • Netw
 - Hack The Box
 - CTF challenges
 - LeetCode
-- Network labs
+- Network Labs
 - AWS
 
 ---
