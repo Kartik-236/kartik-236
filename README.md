@@ -2,14 +2,14 @@
 
 Computer Science student interested in backend development, cybersecurity, Linux systems, and low-level software concepts.
 
-I like building projects that help me understand how systems actually work internally — whether it's secure data wiping, file compression, backend services, or forensic analysis workflows.
+I enjoy building projects that help me understand how software and systems behave internally — from secure data wiping and forensic workflows to backend services and file processing tools.
 
 ---
 
-## What I’m Working On
+## Currently Exploring
 
 - Backend development with Python
-- Linux-based applications and tooling
+- Linux-based tooling and applications
 - Secure systems and data handling
 - APIs, databases, and application logic
 - Systems programming concepts
@@ -20,7 +20,7 @@ I like building projects that help me understand how systems actually work inter
 ## Projects
 
 ### Project DUME
-A Linux-based host analysis platform focused on system behavior, risk analysis, and backend-driven event processing.
+Linux-based host analysis and risk assessment platform.
 
 Built using:
 `Python • FastAPI • PostgreSQL • Docker`
@@ -28,7 +28,7 @@ Built using:
 ---
 
 ### IT Asset Disposal Tool
-A desktop application for secure file and storage wiping with separate workflows for HDDs and SSDs.
+Desktop application for secure file and storage wiping with separate workflows for HDDs and SSDs.
 
 Focused on:
 - secure deletion concepts
@@ -42,7 +42,7 @@ Built using:
 ---
 
 ### Cloud Forensics Investigation Platform
-A project for analyzing cloud activity logs and reconstructing suspicious activity timelines across simulated cloud environments.
+Project for analyzing cloud activity logs and reconstructing suspicious activity timelines across simulated cloud environments.
 
 Built using:
 `Java • Spring Boot • MongoDB`
@@ -50,20 +50,18 @@ Built using:
 ---
 
 ### File Compression Tool
-A GUI-based compression application built in C++ using Huffman Coding and Run-Length Encoding.
+GUI-based compression application using Huffman Coding and Run-Length Encoding.
 
 Focused on:
 - compression algorithms
-- memory handling
 - file processing
+- memory handling
 - desktop application development
 
 Built using:
 `C++ • Qt`
 
 ---
-
-
 
 ## Tech Stack
 
@@ -83,16 +81,19 @@ Built using:
 
 ## Interests
 
-Cybersecurity • Backend engineering   • Linux • Systems programming • Digital forensics • APIs • Performance-oriented software • Networking
+Cybersecurity • Backend Engineering • Linux • Systems Programming • Networking • APIs • Digital Forensics • Performance-Oriented Software
 
 ---
+
 ## Other Things I Spend Time On
 
 - TryHackMe
 - Hack The Box
 - CTF challenges
 - LeetCode
-- Network Labs
+- Network labs
 - AWS
+
+---
 
 > Learning by building and understanding systems from the ground up.
