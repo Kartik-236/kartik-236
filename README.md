@@ -8,11 +8,12 @@ I enjoy building projects that help me understand how software and systems behav
 
 ## Currently Working On
 
-- Backend development with Python
+- Backend development with Python , C#(.NET) and Frontend with React ( Web and Mobile Applications)
+- Manual and Automation testing , security testing , story based testing , black box , white box , rev eng , QA
 - Linux-based tooling and applications
 - Secure systems and data handling
 - APIs, databases, and application logic
-- Systems programming concepts
+- Systems programming concepts and design
 - DSA and problem solving
 
 ---
